@@ -1,5 +1,5 @@
 {
-  "name": "AngularTemplate",
+  "name": "NodeTemplate",
   "homepage": "https://github.com/j-West",
   "authors": [
     "j-west <westja89@gmail.com>"
@@ -16,8 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "^1.6.1",
-    "angular-route": "^1.6.1",
-    "bootstrap": "^3.3.7"
+
   }
 }
